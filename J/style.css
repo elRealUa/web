@@ -1,0 +1,16 @@
+body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 15px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #15c593; /* El color del fondo de la página web */
+    color: #a9d4c8; /* El color del texto*/ 
+}
+h1 {
+    color: #a9d4c8; /* El color de la cabecera */
+    font-size: 30px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
+li {
+    color: #a9d4c8; /* El color de la cabecera */
+    font-size: 20px; /* El tamaño de la fuente de la cabecera */
+    font-family: Georgia, serif; /* La familia tipográfica utilizada en la cabecera */
+}
